@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.840cc0ba.css",
+    "main.js": "/static/js/main.8d521a16.js",
+    "static/js/787.7091920f.chunk.js": "/static/js/787.7091920f.chunk.js",
+    "static/media/BigCommerce.png": "/static/media/BigCommerce.d97a78bec1782c65c5aa.png",
+    "index.html": "/index.html",
+    "main.840cc0ba.css.map": "/static/css/main.840cc0ba.css.map",
+    "main.8d521a16.js.map": "/static/js/main.8d521a16.js.map",
+    "787.7091920f.chunk.js.map": "/static/js/787.7091920f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840cc0ba.css",
+    "static/js/main.8d521a16.js"
+  ]
+}

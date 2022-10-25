@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+.df1{
+    /* border: 1px solid black; */
+    padding: 10px;
+}
+
+.Home_page_heading{
+    color: tomato;
+    font-weight:700;
+}
+
+.home_page_heading_2{
+    color: rgb(0, 0, 255,0.7);
+    font-weight:600;
+}
+
+.Home_page_content{
+    font-weight: 500;
+    color: black;
+    font-size: large;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.homepage_shopify,.homepage_WooCommerce,.homepage_magento,.homepage_bigCommerce{
+    font-weight: 800;
+    color: slategray;
+}
