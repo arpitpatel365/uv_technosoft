@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+
+.df1 {
+    /* border: 1px solid black; */
+    padding: 10px;
+}
+
+.Home_page_heading {
+    color: tomato;
+    font-weight: 700;
+}
+
+.home_page_heading_2 {
+    color: rgb(0, 0, 255, 0.7);
+    font-weight: 600;
+    
+}
+
+.Home_page_content {
+    font-weight: 500;
+    color: black;
+    font-size: large;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.homepage_shopify,
+.homepage_WooCommerce,
+.homepage_magento,
+.homepage_bigCommerce {
+    font-weight: 800;
+    color: slategray;
+}
+
+@media (min-width:320px){
+    .Home_BigCommerce_Image{
+        width: 70vw;
+    }
+}
+
+@media (max-width:475px) {
+  
+
+    
+
+}
+
+@media (max-width:576px) {
+    .Home_BigCommerce_Image {
+        margin-top: 20px;
+    }
+}
+
+@media(max-width:768px) {
+    .Home_BigCommerce_Image {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width:992px) {
+    .Home_BigCommerce_Image {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width:1200px) {
+    .Home_BigCommerce_Image {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width:1400px) {
+    .Home_BigCommerce_Image {
+        margin-top: 30px;
+    }
+}
+
+.Home_Line1{
+    border-bottom: 1px solid black;
+    border-radius: 3.2px;
+    
+}
