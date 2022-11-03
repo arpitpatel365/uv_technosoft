@@ -1,0 +1,99 @@
+.EMI_Cal {
+    font-weight: bolder;
+    font-size: large;
+}
+
+.ToDoApp_heading {
+    font-weight: bolder;
+    font-size: large;
+}
+
+.Portfolio_calculator,
+.Portfolio_ToDo {
+    font-weight: 800;
+    color: slategray;
+}
+
+.project1,
+.project2 {
+    font-weight: 500;
+    color: black;
+    font-size: large;
+}
+
+.Portfolio_Heading {
+    color: tomato;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+@media (max-width:576px) {
+
+    .project1,
+    .project2 {
+        text-align: justify;
+    }
+
+    .Portfolio_calculator,
+    .Portfolio_ToDo {
+
+        margin-right: 20px;
+    }
+}
+
+@media (max-width:768px) {
+
+    .project1,
+    .project2 {
+        text-align: justify;
+    }
+
+    .Portfolio_calculator,
+    .Portfolio_ToDo {
+
+        margin-right: 20px;
+    }
+}
+
+@media (max-width:992px) {
+
+    .project1,
+    .project2 {
+        text-align: justify;
+    }
+
+    .Portfolio_calculator,
+    .Portfolio_ToDo {
+
+        margin-right: 20px;
+    }
+}
+
+@media (max-width:576px) {
+    .Project_1_Colon {
+        position: absolute;
+        left: 88px;
+    }
+
+    .Project_1_Link {
+        position: absolute;
+        left: 100px;
+    }
+
+    /* .Link_1{
+    text-align: justify;
+  } */
+    .Portfolio_ToDo {
+        margin-top: 20px;
+    }
+
+    .Project_2_Colon {
+        position: absolute;
+        left: 88px;
+    }
+
+    .Project_2_Link {
+        position: absolute;
+        left: 100px;
+    }
+}

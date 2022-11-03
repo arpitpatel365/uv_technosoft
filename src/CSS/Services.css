@@ -1,0 +1,33 @@
+
+.main_heading_services{
+    color: tomato;
+    font-weight:700;
+    
+}
+
+.d{
+    border: 1px solid black;
+}
+    
+    
+
+.cc1,.cc2,.cc3,.cc4,.cc5{
+    font-weight: 800;
+    color: slategray;
+    /* padding: 10px; */
+}
+
+.pp1,.pp2,.pp3,.pp4,.pp5{
+    text-align: justify;
+    /* padding: 10px; */
+}
+
+.pu1,.shopify,.WooCommerce,.Magento,.BigCommerce{
+    padding: 20px;
+    font-weight: 500;
+    color: black;
+    font-size: large;
+    /* background-color: rgb(129, 129, 218,0.1) !important;  */
+    /* background-color: rgb(127, 255, 212,0.2); */
+    background-color: rgb(127, 255, 212,0.2);
+}
